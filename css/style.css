@@ -1,0 +1,72 @@
+/*Navbar*/
+
+.customNav {
+  width: 100%;
+  z-index: 10;
+ }
+ .navbar-nav {
+  margin-left: auto;
+  margin-right: 0 !important;
+ }
+ .nav-item {
+  margin: 0px 15px;
+ }
+
+ .customNav a {
+  color: #4152A2 !important;
+ }
+
+ .customNav a:focus, .customNav a:hover {
+  color: #F6B1D0 !important;
+}
+
+
+/*Jumbotron*/
+
+ .customJumbo {
+  background-image: url(../images/alovingact.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 500px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+ }
+
+ .jumboCopy {
+  width: 70%;
+  min-width: 500px;
+  max-width: 700px;
+  color: white;
+  text-align: center;
+ }
+ 
+
+ /*Researchx*/
+
+ .btn {
+  color: #F6B1D0;
+  font-weight: bold;
+}
+
+ 
+/*Problem Statement*/
+ .prob {
+  color: #4152A2;
+  text-align: center;
+  font-weight: bold;
+ }
+
+/*Iteration*/
+.media {
+  padding: 20px;
+  margin: 20px;
+}
+  
+
+
+
+#headers {
+  color: #4152A2;
+  margin: 20px;
+}
